@@ -1,0 +1,226 @@
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\appsettings.json
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.exe
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.deps.json
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.runtimeconfig.json
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.runtimeconfig.dev.json
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ref\LibraryWEB.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.Views.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.Views.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.AssemblyInfoInputs.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.AssemblyInfo.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorAssemblyInfo.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorAssemblyInfo.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\staticwebassets\LibraryWEB.StaticWebAssets.Manifest.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\staticwebassets\LibraryWEB.StaticWebAssets.xml
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\scopedcss\bundle\LibraryWEB.styles.css
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.TagHelpers.input.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.TagHelpers.output.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorCoreGenerate.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Guest\Index.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Home\Article.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Home\CreateArticle.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Home\ShortArticles.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Questionnaire\Index.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Questionnaire\Result.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorTargetAssemblyInfo.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorTargetAssemblyInfo.cs
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.Views.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csproj.CopyComplete
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\ref\LibraryWEB.dll
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.pdb
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.genruntimeconfig.cache
+C:\Users\Pavel\Source\Repos\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csprojAssemblyReference.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\appsettings.json
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.exe
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.deps.json
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.runtimeconfig.json
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.runtimeconfig.dev.json
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ref\LibraryWEB.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.Views.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\LibraryWEB.Views.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.AssemblyInfoInputs.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.AssemblyInfo.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csproj.CoreCompileInputs.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorAssemblyInfo.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorAssemblyInfo.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\staticwebassets\LibraryWEB.StaticWebAssets.Manifest.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\staticwebassets\LibraryWEB.StaticWebAssets.xml
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\scopedcss\bundle\LibraryWEB.styles.css
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.TagHelpers.input.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.TagHelpers.output.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorCoreGenerate.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\CMS\CMSPage.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorTargetAssemblyInfo.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.RazorTargetAssemblyInfo.cs
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.Views.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csproj.CopyComplete
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\ref\LibraryWEB.dll
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.pdb
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.genruntimeconfig.cache
+C:\Users\kalen\Desktop\CMS Core\LibraryWEB\LibraryWEB\obj\Debug\net5.0\LibraryWEB.csprojAssemblyReference.cache

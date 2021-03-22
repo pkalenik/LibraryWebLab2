@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kalen\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kalen\\.nuget\\packages"
+    ]
+  }
+}

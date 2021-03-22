@@ -1,0 +1,352 @@
+﻿@{
+    ViewData["Title"] = "CMS";
+}
+
+@if (Model.PageCode.Contains("home"))
+{
+    <main>
+        @if (Model.DisplayType == "list")
+        {
+            <div class="container">
+                <div class="row t">
+                    <div class="Main_body col col-lg-9">
+                        @if (ViewBag.Lang == "ua")
+                        {
+                            <h1>@Model.TitleUa</h1>
+                            @foreach (var p in ViewBag.ViewModel.Pages)
+                            {
+                                <div class="col-sm news alert alert-success" style="margin-right: 50px;">
+                                    <h2 class="news_title h2">
+                                        @p.TitleUa
+                                    </h2>
+                                    <p class="news_date">Дата: @p.DateCreate.ToShortDateString()</p>
+                                    <p class="news_text">
+                                        @p.ShortContentUa
+                                    </p>
+                                    <a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@p.PageCode" class="news_detailed btn btn-primary">Детальніше</a>
+                                    <div>
+                                        Тег: @p.Tag
+                                    </div>
+                                </div>
+                            }
+                        }
+                        @if (ViewBag.Lang == "eng")
+                        {
+                            <h1>@Model.TitleEng</h1>
+                            @foreach (var p in ViewBag.ViewModel.Pages)
+                            {
+                                <div class="news alert alert-success" style="margin-right: 50px;">
+                                    <h2 class="news_title h2">
+                                        @p.TitleEng
+                                    </h2>
+                                    <p class="news_date">Date: @p.DateCreate.ToShortDateString()</p>
+                                    <p class="news_text">
+                                        @p.ShortContentEng
+                                    </p>
+                                    <a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@p.PageCode" class="news_detailed btn btn-primary">Read more</a>
+                                    <div>
+                                        Tag: @p.Tag
+                                    </div>
+                                </div>
+                            }
+                        }
+                    </div>
+
+                    @if (ViewBag.Lang == "ua")
+                    {
+                        <div class="right_sidebar col-lg-3">
+                            <ul class="nav">
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Домашня</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Український</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">Англійський</a></li>
+                            </ul>
+                        </div>
+                    }
+                    @if (ViewBag.Lang == "eng")
+                    {
+                        <div class="right_sidebar col-lg-3">
+                            <ul class="nav">
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">Home</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Ukrainian</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">English</a></li>
+                            </ul>
+                        </div>
+                    }
+                </div>
+
+                @if (ViewBag.Lang == "ua")
+                {
+                    <div class="navigation_items" style="margin-top: 50px;">
+                        @if (ViewBag.ViewModel.PageViewModel.HasPreviousPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber - 1)"
+                               class="btn btn-outline-dark">
+                                <i class="glyphicon glyphicon-chevron-left"></i>
+                                Назад
+                            </a>
+                        }
+                        @if (ViewBag.ViewModel.PageViewModel.HasNextPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber + 1)"
+                               class="btn btn-outline-dark">
+                                Далі
+                                <i class="glyphicon glyphicon-chevron-right"></i>
+                            </a>
+                        }
+                    </div>
+                }
+
+                @if (ViewBag.Lang == "eng")
+                {
+                    <div class="navigation_items" style="margin-top: 50px;">
+                        @if (ViewBag.ViewModel.PageViewModel.HasPreviousPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber - 1)"
+                               class="btn btn-outline-dark">
+                                <i class="glyphicon glyphicon-chevron-left"></i>
+                                Back
+                            </a>
+                        }
+                        @if (ViewBag.ViewModel.PageViewModel.HasNextPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber + 1)"
+                               class="btn btn-outline-dark">
+                                Forward
+                                <i class="glyphicon glyphicon-chevron-right"></i>
+                            </a>
+                        }
+                    </div>
+                }
+
+            </div>
+        }
+
+        @if (Model.DisplayType == "tail")
+        {
+            <div class="container">
+                <div class="row t" style="max-height: 550px;">
+                    <div class="Main_body col col-lg-9">
+                        @if (ViewBag.Lang == "ua")
+                        {
+                            <h1>@Model.TitleUa</h1>
+                            <div class="container">
+                                <div class="row">
+                                    @foreach (var p in ViewBag.ViewModel.Pages)
+                                    {
+                                        <div class="col-sm news alert alert-success" style="margin-right: 50px;">
+                                            <h2 class="news_title h2">
+                                                @p.TitleUa
+                                            </h2>
+                                            <p class="news_date">Дата: @p.DateCreate.ToShortDateString()</p>
+                                            <p class="news_text">
+                                                @p.ShortContentUa
+                                            </p>
+                                            <a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@p.PageCode" class="news_detailed btn btn-primary">Детальніше</a>
+                                            <div>
+                                                Тег: @p.Tag
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        }
+
+                        @if (ViewBag.Lang == "eng")
+                        {
+                            <h1>@Model.TitleEng</h1>
+                            <div class="container">
+                                <div class="row">
+                                    @foreach (var p in ViewBag.ViewModel.Pages)
+                                    {
+                                        <div class="col-sm news alert alert-success" style="margin-right: 50px;">
+                                            <h2 class="news_title h2">
+                                                @p.TitleEng
+                                            </h2>
+                                            <p class="news_date">Date: @p.DateCreate.ToShortDateString()</p>
+                                            <p class="news_text">
+                                                @p.ShortContentEng
+                                            </p>
+                                            <a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@p.PageCode" class="news_detailed btn btn-primary">Read more</a>
+                                            <div>
+                                                Tag: @p.Tag
+                                            </div>
+                                        </div>
+                                    }
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    @if (ViewBag.Lang == "ua")
+                    {
+                        <div class="right_sidebar col-lg-3">
+                            <ul class="nav">
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Домашня</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Український</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">Англійський</a></li>
+                            </ul>
+                        </div>
+                    }
+                    @if (ViewBag.Lang == "eng")
+                    {
+                        <div class="right_sidebar col-lg-3">
+                            <ul class="nav">
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">Home</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Ukrainian</a></li>
+                                <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">English</a></li>
+                            </ul>
+                        </div>
+                    }
+                </div>
+
+                @if (ViewBag.Lang == "ua")
+                {
+                    <div class="navigation_items" style="margin-top: 50px;">
+                        @if (ViewBag.ViewModel.PageViewModel.HasPreviousPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber - 1)"
+                               class="btn btn-outline-dark">
+                                <i class="glyphicon glyphicon-chevron-left"></i>
+                                Назад
+                            </a>
+                        }
+                        @if (ViewBag.ViewModel.PageViewModel.HasNextPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber + 1)"
+                               class="btn btn-outline-dark">
+                                Далі
+                                <i class="glyphicon glyphicon-chevron-right"></i>
+                            </a>
+                        }
+                    </div>
+                }
+
+                @if (ViewBag.Lang == "eng")
+                {
+                    <div class="navigation_items" style="margin-top: 50px;">
+                        @if (ViewBag.ViewModel.PageViewModel.HasPreviousPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber - 1)"
+                               class="btn btn-outline-dark">
+                                <i class="glyphicon glyphicon-chevron-left"></i>
+                                Back
+                            </a>
+                        }
+                        @if (ViewBag.ViewModel.PageViewModel.HasNextPage)
+                        {
+                            <a asp-action="CMSPage" asp-route-lang="@ViewBag.Lang"
+                               asp-route-page="@(ViewBag.ViewModel.PageViewModel.PageNumber + 1)"
+                               class="btn btn-outline-dark">
+                                Forward
+                                <i class="glyphicon glyphicon-chevron-right"></i>
+                            </a>
+                        }
+                    </div>
+                }
+            </div>
+        }
+
+    </main>
+}
+
+@if (Model.PageCode.Contains("article"))
+{
+    <main>
+
+        @if (ViewBag.Lang == "eng")
+        {
+            <div class="traf alert alert-info">
+                <div class="fict">
+                    <div class="questionnaire alert alert-success">
+                        <h1>@Model.TitleEng</h1>
+                        <img style="height: 110px; width: 110px;" src="~/img/@Model.Image" />
+                        <p class="questionnaire_date">Date: @Model.DateCreate.ToShortDateString()</p>
+                        <p class="questionnaire_text">@Model.ContentEng</p>
+                        <div>Tag: @Model.Tag</div>
+                    </div>
+                    <div class="right_sidebar col-lg-3">
+                        <ul class="nav">
+                            <li><a asp-action="CMSPage" asp-route-lang="eng">Home</a></li>
+                            <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Украинский</a></li>
+                            <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">English</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    @foreach (var article in ViewBag.MainPage)
+                    {
+                    <div class="col-sm alert alert-success mr-1">
+                        <h2>@article.TitleEng</h2>
+                        <img style="height: 75px; width: 75px;" src="~/img/@Model.Image" />
+                        <div>
+                            @article.DateCreate.ToShortDateString()
+                        </div>
+                        <div>
+                            @article.ShortContentEng
+                        </div>
+                        <a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@article.PageCode" class="news_detailed btn btn-primary">More Detail</a>
+                        <div>
+                            Tag: @article.Tag
+                        </div>
+                    </div>
+                    }
+                </div>
+            </div>
+        }
+
+        @if (ViewBag.Lang == "ua")
+        {
+            <div class="traf alert alert-info">
+                <div class="fict">
+                    <div class="questionnaire alert alert-success">
+                        <h1>@Model.TitleUa</h1>
+                        <img style="height: 100px; width: 100px;" src="~/img/@Model.Image" />
+                        <p class="questionnaire_date">@Model.DateCreate.ToShortDateString()</p>
+                        <p class="questionnaire_text">@Model.ContentUa</p>
+                        <div>
+                            Тег: @Model.Tag
+                        </div>
+                    </div>
+                    <div class="right_sidebar col-lg-3">
+                        <ul class="nav">
+                            <li><a asp-action="CMSPage" asp-route-lang="ua">Домашня</a></li>
+                            <li><a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@Model.PageCode">Украинский</a></li>
+                            <li><a asp-action="CMSPage" asp-route-lang="eng" asp-route-pageCode="@Model.PageCode">English</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    @foreach (var article in ViewBag.MainPage)
+                    {
+                    <div class="col alert alert-success mr-1">
+                        <h2>@article.TitleUa</h2>
+                        <img style="height: 75px; width: 75px;" src="~/img/@Model.Image" />
+                        <div>
+                            @article.DateCreate.ToShortDateString()
+                        </div>
+                        <div>
+                            @article.ShortContentUa
+                        </div>
+                        <a asp-action="CMSPage" asp-route-lang="ua" asp-route-pageCode="@article.PageCode" class="news_detailed btn btn-primary">Детальніше</a>
+                        <div>
+                            Тег: @article.Tag
+                        </div>
+                    </div>
+                    }
+                </div>
+            </div>
+        }
+
+    </main>
+}
+
